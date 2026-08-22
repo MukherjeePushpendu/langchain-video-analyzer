@@ -1,7 +1,4 @@
-Cleaned-up README.md (Artifacts Removed)
-Here is your sanitized README.md ready to copy and paste:
 
-Markdown
 # YouTube RAG Chatbot
 
 A notebook-based Retrieval-Augmented Generation (RAG) chatbot that answers questions about a YouTube video transcript.
